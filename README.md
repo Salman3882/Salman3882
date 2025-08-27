@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Salman Khan  
+Salman Khan  
 
 💻 **Full Stack MERN Developer** | 🌐 WordPress & Wix Expert | 🎨 UI/UX Enthusiast  
 
