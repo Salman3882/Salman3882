@@ -34,10 +34,6 @@ WordPress | Wix | Figma | Git & GitHub | SEO
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman-khan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman-khan&layout=compact&theme=radical)  
 
 ---
 
