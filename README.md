@@ -39,8 +39,7 @@ WordPress | Wix | Figma | Git & GitHub | SEO
 
 ## 🤝 Connect with Me  
 - 🌐 [Portfolio](https://salmandev.vercel.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/salman3882)  
-- 📧 Email: yourname@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/salman-khan-7d3882/)  
 
 ---
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
