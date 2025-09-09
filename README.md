@@ -30,7 +30,7 @@ WordPress | Wix | Figma | Git & GitHub | SEO
 ## 📂 Featured Projects  
 - 🌟 [Portfolio Website](https://salmandev.vercel.app) – My professional portfolio built with Next.js  
 - 🛒 [E-commerce Store](https://remac.ae) – Full-stack MERN online shop with payments integration  
-- 📊 [Dashboard App](https://my.korapoint.com) – Admin dashboard with charts & analytics  
+- 📊 [Dashboard App](https://platinum-rosy.vercel.app/) – Admin dashboard with charts & analytics  
 
 ---
 
